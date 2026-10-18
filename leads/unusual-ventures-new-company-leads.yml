@@ -1,0 +1,165 @@
+generated: '2026-10-18'
+method: derived
+source_vc: unusual-ventures
+leads:
+- name: Andromede
+  url: https://andromede.ai
+  suggested_slug: andromede
+  sector: AI
+  source_vc: unusual-ventures
+  source: https://www.unusual.vc/portfolio/
+  stub_created: false
+- name: AptEdge
+  url: https://aptedge.io/
+  suggested_slug: aptedge
+  sector: Applied AI
+  source_vc: unusual-ventures
+  source: https://www.unusual.vc/portfolio/
+  stub_created: false
+- name: Bits Technology
+  url: https://www.bits.bi/
+  suggested_slug: bits-technology
+  sector: Applied AI
+  source_vc: unusual-ventures
+  source: https://www.unusual.vc/portfolio/
+  stub_created: false
+- name: BluBracket
+  url: https://www.blubracket.com/
+  suggested_slug: blubracket
+  sector: Cybersecurity
+  source_vc: unusual-ventures
+  source: https://www.unusual.vc/portfolio/
+  stub_created: false
+- name: Connectly
+  url: https://www.connectly.ai/
+  suggested_slug: connectly
+  sector: Applied AI
+  source_vc: unusual-ventures
+  source: https://www.unusual.vc/portfolio/
+  stub_created: false
+- name: CoScreen
+  url: ''
+  suggested_slug: coscreen
+  sector: Infrastructure
+  source_vc: unusual-ventures
+  source: https://www.unusual.vc/portfolio/
+  stub_created: false
+- name: Enfi
+  url: https://www.enfi.ai/
+  suggested_slug: enfi
+  sector: Applied AI
+  source_vc: unusual-ventures
+  source: https://www.unusual.vc/portfolio/
+  stub_created: false
+- name: Goldcast
+  url: https://www.goldcast.io/
+  suggested_slug: goldcast
+  sector: Applied AI
+  source_vc: unusual-ventures
+  source: https://www.unusual.vc/portfolio/
+  stub_created: false
+- name: GovSignals
+  url: https://www.govsignals.ai/
+  suggested_slug: govsignals
+  sector: Applied AI
+  source_vc: unusual-ventures
+  source: https://www.unusual.vc/portfolio/
+  stub_created: false
+- name: Helios
+  url: https://heliosintel.ai/
+  suggested_slug: heliosintel-ai
+  sector: Applied AI
+  source_vc: unusual-ventures
+  source: https://www.unusual.vc/portfolio/
+  stub_created: false
+- name: Kipling Secure
+  url: https://kiplingsecure.ai/
+  suggested_slug: kipling-secure
+  sector: Cybersecurity
+  source_vc: unusual-ventures
+  source: https://www.unusual.vc/portfolio/
+  stub_created: false
+- name: Kusari
+  url: https://www.kusari.dev/
+  suggested_slug: kusari
+  sector: Cybersecurity, Infrastructure
+  source_vc: unusual-ventures
+  source: https://www.unusual.vc/portfolio/
+  stub_created: false
+- name: Miravoice
+  url: https://www.miravoice.com
+  suggested_slug: miravoice
+  sector: AI
+  source_vc: unusual-ventures
+  source: https://www.unusual.vc/portfolio/
+  stub_created: false
+- name: Oloid
+  url: https://www.oloid.ai/
+  suggested_slug: oloid
+  sector: Infrastructure
+  source_vc: unusual-ventures
+  source: https://www.unusual.vc/portfolio/
+  stub_created: false
+- name: Omnition
+  url: ''
+  suggested_slug: omnition
+  sector: Infrastructure
+  source_vc: unusual-ventures
+  source: https://www.unusual.vc/portfolio/
+  stub_created: false
+- name: Onthos
+  url: https://www.onthos.com/
+  suggested_slug: onthos
+  sector: Applied AI
+  source_vc: unusual-ventures
+  source: https://www.unusual.vc/portfolio/
+  stub_created: false
+- name: Orum
+  url: https://orumhq.com/
+  suggested_slug: orumhq-com
+  sector: Applied AI
+  source_vc: unusual-ventures
+  source: https://www.unusual.vc/portfolio/
+  stub_created: false
+- name: Portrait Analytics
+  url: https://portraitresearch.com/
+  suggested_slug: portrait-analytics
+  sector: AI, Applied AI
+  source_vc: unusual-ventures
+  source: https://www.unusual.vc/portfolio/
+  stub_created: false
+- name: Purple Dot
+  url: https://www.purpledotprice.com/
+  suggested_slug: purple-dot
+  sector: Applied AI
+  source_vc: unusual-ventures
+  source: https://www.unusual.vc/portfolio/
+  stub_created: false
+- name: Raylu
+  url: https://www.raylu.dev/
+  suggested_slug: raylu
+  sector: AI, Applied AI
+  source_vc: unusual-ventures
+  source: https://www.unusual.vc/portfolio/
+  stub_created: false
+- name: Roboto
+  url: https://www.roboto.ai/
+  suggested_slug: roboto
+  sector: AI, Infrastructure
+  source_vc: unusual-ventures
+  source: https://www.unusual.vc/portfolio/
+  stub_created: false
+- name: Sunshine
+  url: https://sunshine.com/
+  suggested_slug: sunshine
+  sector: Applied AI
+  source_vc: unusual-ventures
+  source: https://www.unusual.vc/portfolio/
+  stub_created: false
+- name: TYB
+  url: https://www.tyb.xyz/
+  suggested_slug: tyb
+  sector: Applied AI
+  source_vc: unusual-ventures
+  source: https://www.unusual.vc/portfolio/
+  stub_created: false

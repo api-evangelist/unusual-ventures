@@ -1,0 +1,712 @@
+name: Unusual Ventures Portfolio
+type: Portfolio
+generated: '2026-10-18'
+method: searched
+source: https://www.unusual.vc/portfolio/
+summary:
+  portfolio_total: 65
+  in_network: 42
+  api_providers: 21
+  missing: 23
+  stubs_created: 0
+companies:
+- name: AirOps
+  url: http://airops.com
+  description: AirOps is building an AI-powered platform to scale SEO and content strategies.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: airops
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Alto
+  url: https://www.altoira.com/
+  description: Alto is making alternative investments more accessible.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: altoira
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Andromede
+  url: https://andromede.ai
+  description: Andromede produces synthetic data environments for developing, optimizing (via reinforcement
+    learning) and evaluating large language models.
+  sector: AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  suggested_slug: andromede
+  in_network: false
+  is_api_provider: false
+- name: AptEdge
+  url: https://aptedge.io/
+  description: AptEdge is preventing customer escalations.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  suggested_slug: aptedge
+  in_network: false
+  is_api_provider: false
+- name: Arctic Wolf
+  url: http://www.arcticwolf.com/
+  description: Arctic Wolf is redefining security operations.
+  sector: Cybersecurity
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: arctic-wolf
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Aurasell
+  url: https://www.aurasell.ai
+  description: Aurasell is an AI-native CRM built for GTM teams.
+  sector: AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: aurasell
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: BallerTV
+  url: https://www.ballertv.com/
+  description: BallerTV is building the world’s largest sports network.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: ballertv
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Banyan Security
+  url: https://www.banyansecurity.io/
+  description: Banyan Security is helping avoid the modern cyber attack.
+  sector: Cybersecurity
+  stage: unknown
+  status: acquired
+  source: https://www.unusual.vc/portfolio/
+  slug: banyan-security
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Bits Technology
+  url: https://www.bits.bi/
+  description: Bits Technology is simplifying and reshaping how fintechs build products.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  suggested_slug: bits-technology
+  in_network: false
+  is_api_provider: false
+- name: BluBracket
+  url: https://www.blubracket.com/
+  description: BluBracket is reinventing code security.
+  sector: Cybersecurity
+  stage: unknown
+  status: acquired
+  source: https://www.unusual.vc/portfolio/
+  suggested_slug: blubracket
+  in_network: false
+  is_api_provider: false
+- name: Carta
+  url: https://carta.com/
+  description: Carta is building a single, integrated platform – a Network ERP – for private capital.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: carta
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Chalk
+  url: https://chalk.ai/
+  description: Chalk is a data platform that powers machine learning and generative AI.
+  sector: AI, Infrastructure
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: chalk
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: CO2 AI
+  url: https://co2ai.com/
+  description: CO2 AI is leading end-to-end carbon management software for large corporations.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: co2-ai
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Connectly
+  url: https://www.connectly.ai/
+  description: Connectly is helping businesses unlock revenue with messaging.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  suggested_slug: connectly
+  in_network: false
+  is_api_provider: false
+- name: Contra
+  url: https://contra.com
+  description: Contra is creating the hiring platform for independents.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: contra
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: CoScreen
+  url: ''
+  description: CoScreen is making technical teams more collaborative.
+  sector: Infrastructure
+  stage: unknown
+  status: acquired
+  source: https://www.unusual.vc/portfolio/
+  suggested_slug: coscreen
+  in_network: false
+  is_api_provider: false
+- name: Dashbase
+  url: ''
+  description: Dashbase is bolstering observability.
+  sector: Infrastructure
+  stage: unknown
+  status: acquired
+  source: https://www.unusual.vc/portfolio/
+  slug: dashbase
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Databento
+  url: https://databento.com/
+  description: Databento is empowering analysts with on-demand data.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: databento
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Descope
+  url: https://www.descope.com/
+  description: Descope is building the passwordless future.
+  sector: Cybersecurity
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: descope
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Endgame
+  url: https://www.endgame.io/
+  description: Endgame is helping product-led companies sell & grow.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: end-game
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Enfi
+  url: https://www.enfi.ai/
+  description: Enfi is accelerating complex credit analysis and risk monitoring.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  suggested_slug: enfi
+  in_network: false
+  is_api_provider: false
+- name: Enterpret
+  url: https://www.enterpret.com/
+  description: Enterpret is helping companies leverage customer feedback.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: enterpret
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: fal
+  url: https://fal.ai/
+  description: Fal is a generative media platform for developers with the fastest diffusion inference
+    on the planet.
+  sector: AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: fal-ai
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Goldcast
+  url: https://www.goldcast.io/
+  description: Goldcast is powering the future of video marketing.
+  sector: Applied AI
+  stage: unknown
+  status: acquired
+  source: https://www.unusual.vc/portfolio/
+  suggested_slug: goldcast
+  in_network: false
+  is_api_provider: false
+- name: GovSignals
+  url: https://www.govsignals.ai/
+  description: GovSignals is building an AI-powered data and workflow automation platform for government
+    contractors.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  suggested_slug: govsignals
+  in_network: false
+  is_api_provider: false
+- name: Grain
+  url: https://grain.com/
+  description: Grain is turning video meetings into libraries of knowledge.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: grain
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Gusto
+  url: http://www.gusto.com
+  description: Gusto is helping companies take care of their teams.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: gusto
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Hallow
+  url: https://hallow.com/
+  description: Hallow is a prayer and meditation app.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: hallow
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Harness
+  url: https://www.harness.io/
+  description: Harness is enabling every software team to deliver excellence.
+  sector: AI, Infrastructure
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: harness
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Helios
+  url: https://heliosintel.ai/
+  description: Helios is trusted AI for public policy professionals.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  x-name-collision: helios
+  suggested_slug: heliosintel-ai
+  in_network: false
+  is_api_provider: false
+- name: HumanSignal
+  url: https://humansignal.com/
+  description: HumanSignal is helping data scientists build better models.
+  sector: AI, Infrastructure
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: label-studio
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Kipling Secure
+  url: https://kiplingsecure.ai/
+  description: Kipling Secure is building an AI-native platform to protect organizations from modern cyber
+    threats.
+  sector: Cybersecurity
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  suggested_slug: kipling-secure
+  in_network: false
+  is_api_provider: false
+- name: Kusari
+  url: https://www.kusari.dev/
+  description: Kusari is lighting the way forward on supply chain security.
+  sector: Cybersecurity, Infrastructure
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  suggested_slug: kusari
+  in_network: false
+  is_api_provider: false
+- name: Mem Labs
+  url: https://get.mem.ai/
+  description: Mem Labs is building a shared brain for teams.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: mem
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Miravoice
+  url: https://www.miravoice.com
+  description: Miravoice is building a specialized AI voice agent platform engineered for quantitative
+    data collection, automating structured, repetitive, and tedious conversations like surveys and polling.
+  sector: AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  suggested_slug: miravoice
+  in_network: false
+  is_api_provider: false
+- name: Navro
+  url: https://navro.com/
+  description: Navro is enabling international payments.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: navro
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Neon
+  url: https://neon.com/
+  description: Neon is a cloud-native, fully-managed Postgres platform.
+  sector: Infrastructure
+  stage: unknown
+  status: acquired
+  source: https://www.unusual.vc/portfolio/
+  slug: neon
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Octave
+  url: https://www.octavehq.com/
+  description: Octave is building a context engine for intelligent GTM motions.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: octave
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Oloid
+  url: https://www.oloid.ai/
+  description: Oloid is enhancing workplace security of deskless workers.
+  sector: Infrastructure
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  suggested_slug: oloid
+  in_network: false
+  is_api_provider: false
+- name: Omnition
+  url: ''
+  description: Omnition is powering observability for microservices.
+  sector: Infrastructure
+  stage: unknown
+  status: acquired
+  source: https://www.unusual.vc/portfolio/
+  suggested_slug: omnition
+  in_network: false
+  is_api_provider: false
+- name: Onthos
+  url: https://www.onthos.com/
+  description: Onthos is building foundational AI for the global investment industry.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  suggested_slug: onthos
+  in_network: false
+  is_api_provider: false
+- name: Ordr
+  url: https://ordr.net/
+  description: Ordr is making IoT device security simple.
+  sector: AI, Infrastructure
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: ordr
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Orum
+  url: https://orumhq.com/
+  description: Orum lets sales teams reach their target prospects quickly.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  x-name-collision: orum
+  suggested_slug: orumhq-com
+  in_network: false
+  is_api_provider: false
+- name: Paxton
+  url: https://www.paxton.ai
+  description: Paxton is the leading AI-native solution for small and mid-size law firms.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: paxton-ai
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Portrait Analytics
+  url: https://portraitresearch.com/
+  description: Portrait Analytics is building a generative AI research assistant to accelerate investment
+    research.
+  sector: AI, Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  suggested_slug: portrait-analytics
+  in_network: false
+  is_api_provider: false
+- name: PostHog
+  url: https://posthog.com/
+  description: PostHog AI turns product data into actionable insights.
+  sector: AI, Infrastructure
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: posthog
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Purple Dot
+  url: https://www.purpledotprice.com/
+  description: Purple Dot is helping brands pre-sell inventory.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  suggested_slug: purple-dot
+  in_network: false
+  is_api_provider: false
+- name: Qdrant
+  url: https://qdrant.tech/
+  description: Qdrant is creating the retrieval engine for the AI age.
+  sector: AI, Infrastructure
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: qdrant
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Railway
+  url: https://railway.app/
+  description: Railway is transforming the process of shipping software.
+  sector: Infrastructure
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: contract-guard
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Raylu
+  url: https://www.raylu.dev/
+  description: Raylu is creating the developer’s machine-learning framework.
+  sector: AI, Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  suggested_slug: raylu
+  in_network: false
+  is_api_provider: false
+- name: Relyance AI
+  url: https://www.relyance.ai/
+  description: Relyance is building the governance platform for tech.
+  sector: AI, Cybersecurity
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: relyance-ai
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Resolve AI
+  url: http://www.resolve.ai
+  description: ResolveAI is building an AI production engineer.
+  sector: AI, Infrastructure
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: resolve-ai
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Rime
+  url: http://rime.ai
+  description: Rime is building the fastest and most lifelike voice AI platform.
+  sector: AI, Infrastructure
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: rime-ai
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Rive
+  url: https://rive.app/
+  description: Rive is bringing apps and games to life.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: rive
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Robinhood
+  url: https://robinhood.com/us/en/
+  description: Robinhood is democratizing finance for all.
+  sector: Applied AI
+  stage: unknown
+  status: ipo
+  source: https://www.unusual.vc/portfolio/
+  slug: robinhood
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Roboto
+  url: https://www.roboto.ai/
+  description: Roboto is accelerating robotics development with AI.
+  sector: AI, Infrastructure
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  suggested_slug: roboto
+  in_network: false
+  is_api_provider: false
+- name: Socket
+  url: https://socket.dev/
+  description: Socket is securing the open source supply chain.
+  sector: Cybersecurity, Infrastructure
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: socket
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Stigg
+  url: https://www.stigg.io/
+  description: Stigg is building pricing and packaging tools for modern SaaS.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: stigg
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Sunshine
+  url: https://sunshine.com/
+  description: Sunshine is redefining contact management.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  suggested_slug: sunshine
+  in_network: false
+  is_api_provider: false
+- name: Tabular
+  url: https://tabular.io/
+  description: Tabular is an independent data platform that makes Iceberg easy.
+  sector: Infrastructure
+  stage: unknown
+  status: acquired
+  source: https://www.unusual.vc/portfolio/
+  slug: tabular
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Traceable
+  url: https://www.traceable.ai/
+  description: Traceable is protecting apps from users to code.
+  sector: Cybersecurity
+  stage: unknown
+  status: acquired
+  source: https://www.unusual.vc/portfolio/
+  slug: traceable
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: TYB
+  url: https://www.tyb.xyz/
+  description: TYB is deepening the bond between brands and fans in web3.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  suggested_slug: tyb
+  in_network: false
+  is_api_provider: false
+- name: Vivun
+  url: https://www.vivun.com/
+  description: Vivun is creating software for presales.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: vivun
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Vizcom
+  url: https://www.vizcom.ai/
+  description: Vizcom is building the next generation of 3D product design.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: vizcom
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Webflow
+  url: https://webflow.com/
+  description: Webflow is powering custom websites with no code.
+  sector: Applied AI
+  stage: unknown
+  status: active
+  source: https://www.unusual.vc/portfolio/
+  slug: webflow
+  in_network: true
+  is_api_provider: true
+  matched_by: domain

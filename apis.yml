@@ -1,0 +1,75 @@
+aid: unusual-ventures
+name: Unusual Ventures
+description: >-
+  Unusual Ventures is an early-stage venture capital firm for enterprise and technical founders,
+  built around a proprietary product-market-fit method (the Unusual Field Guide and "Unusual Way to PMF").
+  Founded in 2017 by John Vrionis and Jyoti Bansal (founder of AppDynamics and Harness), the firm makes a
+  small number of investments each year, leading seed rounds such as Helios ($4M seed) and participating in
+  Series A rounds such as Rime ($24M). Its portfolio spans AI, applied AI, infrastructure and cybersecurity,
+  including PostHog, Qdrant, fal, Railway, Harness, Socket, Descope, Neon and Traceable. Check size, AUM and
+  HQ are not published on its site.
+x-type: venture-capital
+x-category: Venture Capital
+image: https://www.unusual.vc/wp-content/uploads/2025/08/unusual-logo.png
+url: https://www.unusual.vc/
+specificationVersion: "0.20"
+created: "2026-10-18"
+modified: "2026-10-18"
+tags:
+  - Venture Capital
+  - Seed
+  - Early Stage
+  - Enterprise Software
+  - Artificial Intelligence
+  - Infrastructure
+  - Cybersecurity
+  - Developer Tools
+apis: []
+common:
+  - type: Website
+    url: https://www.unusual.vc/
+  - type: Portfolio
+    url: https://www.unusual.vc/portfolio/
+  - type: Portfolio
+    url: portfolio/unusual-ventures-portfolio.yml
+  - type: Team
+    url: https://www.unusual.vc/team/
+  - type: Team
+    url: team/unusual-ventures-team.yml
+  - type: InvestmentThesis
+    url: https://www.unusual.vc/our-story/
+  - type: Blog
+    url: https://www.unusual.vc/blog/
+  - type: News
+    url: https://www.unusual.vc/news/
+  - type: Contact
+    url: https://www.unusual.vc/contact-us/
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/unusualventures
+  - type: Twitter
+    url: https://x.com/Unusual_VC
+  - type: YouTube
+    url: https://www.youtube.com/channel/UCcc5xBSjJWSPVPq5EAKln4A
+  - type: Features
+    name: Fund Facts
+    updated: "2026-10-18"
+    data:
+      - name: Stage
+        value: Early stage (seed, Series A)
+      - name: Sectors
+        value: AI, Applied AI, Infrastructure, Cybersecurity
+      - name: Founded
+        value: "2017"
+      - name: Founders
+        value: John Vrionis, Jyoti Bansal
+    sources:
+      - https://www.unusual.vc/our-story/
+      - https://www.unusual.vc/portfolio/
+      - https://www.unusual.vc/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+  - FN: APIs.json
+    url: https://apisjson.org
+  - FN: Unusual Ventures
+    url: https://www.unusual.vc/
